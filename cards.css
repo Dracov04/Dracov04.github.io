@@ -1,0 +1,27 @@
+.card {
+		border-radius: 1em;
+		border: 2px solid black;
+		background-color: white;
+		cursor: pointer;
+		display: inline-block;
+		height: 130px;
+		width: 130px;
+		margin: 3px;
+		vertical-align: top;
+		background-image: url(VladimirLoL.jpg);
+	}
+
+	#table {
+		width: 600px;
+		margin:10px auto;
+	}
+
+	#time {
+		float:left;
+		font-size: 40px;
+	}
+
+	#points {
+		float:right;
+		font-size: 40px;
+	}
